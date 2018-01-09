@@ -1,2 +1,52 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<head>
+<title>rachit</title>
+</head>
+<body>
+<h1 align="center"><spam><i>cristiano ronaldo</i></spam></h1>
+
+<p>
+	<hr width="50%" align="center">	
+	<p align="center">
+	hey! i am <span style="color:red"><strong>CRISTIANO RONALDO</strong></span>.I have changed the football.<br/>
+</p>
+	<p align="center"><img src="ronaldo1.jpg"height="400px"width="400px"border="8px"alt="C:\Users\Rachit Panwar\Documents\html\ronaldo1.jpg"/>
+	</p>
+</p>
+<p align="center">
+	<a href="https://www.google.co.in/search?q=cristiano+ronaldo"target="_blank"><br/>about me!!!!
+<a/>
+	</p>
+	<p>
+		<strong>WHY!!!</strong>
+	<ul>
+		<li>best player</li>
+		<li>most earning atlete</li>
+        <li>5 balon do'r's</li>  		
+	<ul/>
+</p>
+<form>username-><input type="text" name="username"/><br/>password-><input type="password" name="password"/></form>
+<form><input type="radio"name="gender"value="male"/>Male<br/><input type="radio" name="gender"value="female"/>Female<br/></form>
+<form><input type="checkbox" name="gender"value="1"/>Male<br/>
+	<input type="checkbox" name="gender"value="2"/>Female<br/></form>
+<form><input type="submit"value="submit"/></form>
+<table border="2px">
+	<tr>
+		<td>kaka</td>
+		<td>neymar</td>
+		<td>bale</td>
+	</tr>
+	<tr>
+		<td><br/>good</td>
+<td colspan="2"><br/>better</td>
+	</tr>
+</table>
+
+	<hr align="center" width="50%">
+	<p align="center"><em>"declare variables not war"</em>
+	</p> 
+</hr >
+</body>
+</html>
